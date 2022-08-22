@@ -1,6 +1,6 @@
 # Lem-in
 
-Team project with [jheiskan](https://github.com/jmtuulos) in Hive Helsinki school. During working on this project we explored graph theory, learned about maximum flow problem, implemented breadth-first-search, merge sort, binary search, dynamically reallocating arrays and, most importantly, practiced pair-programming and improved our team-working soft skills.
+Team project with [ladymarengo](https://github.com/ladymarengo) in Hive Helsinki school. During working on this project we explored graph theory, learned about maximum flow problem, implemented breadth-first-search, merge sort, binary search, dynamically reallocating arrays and, most importantly, practiced pair-programming and improved our team-working soft skills.
 
 The main goal of this project is to transfer given number of ants through the complex graph (simulating an ant farm) in the least amount of turns. You can read all requirements [here](https://github.com/ladymarengo/Lem-in/blob/main/Subject.pdf).
 
